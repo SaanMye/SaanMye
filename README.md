@@ -2,8 +2,6 @@
 
 ### I'm a starter Brazilian developer, trying my best to learn and become better.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaanMye&label=Profile views&color=0e75b6&style=flat" alt="SaanMye" /> </p>
-
 - 🌱 I'm currently learning **Python, C# and Android Development**
 
 <h3 align="left">Connect with me:</h3>
