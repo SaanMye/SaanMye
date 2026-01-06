@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## 📝 About Me
 
 👨‍💻 Brazilian developer aiming to improve and make a difference  
 📱 Focused on Android development  
@@ -25,14 +25,14 @@
 
 ---
 
-## 📬 Contact
+## 💬 Contact
 
 - 📌 GitHub: [@SaanMye](https://github.com/SaanMye)  
 - 📩 Telegram: [@SaanMye](https://t.me/SaanMye)
 
 ---
 
-## 🧰 Skills & Tools
+## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
