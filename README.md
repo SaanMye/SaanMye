@@ -19,9 +19,9 @@
 
 ## 📝 About Me
 
-👨‍💻 Brazilian developer aiming to improve and make a difference  
+👨‍💻 Brazilian developer aiming to improve and make a difference somewhere
 📱 Focused on Android development  
-📚 Learning Python, C#, and Android internals
+📚 Learning Python and Android internals
 
 ---
 
