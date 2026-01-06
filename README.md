@@ -1,20 +1,68 @@
-# Hi 👋, I'm SaanMye
+<div align="center">
 
-### Brazilian developer willing to improve and make a difference.
+# 👋 Sup, I'm SaanMye.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaanMye&label=Profile views&color=0e75b6&style=flat" alt="SaanMye" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaanMye" alt="SaanMye" /></a> </p>
-
-- 🔭 I'm currently working on **Android Development**
-
-- 🌱 I'm currently learning **Python, C# and Android Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SaanMye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SaanMye" height="30" width="40" /></a>
-<a href="https://youtube.com/saanmye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saanmye" height="30" width="40" /></a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Android+Enthusiast;Enjoying;Learning;Developing"
+    alt="Typing SVG"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaanMye&color=FF0000&style=flat-square" />
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+👨‍💻 Brazilian developer aiming to improve and make a difference  
+📱 Focused on Android development  
+📚 Learning Python, C#, and Android internals
+
+---
+
+## 📬 Contact
+
+- 📌 GitHub: https://github.com/SaanMye  
+- 📩 Telegram: t.me/SaanMye
+
+---
+
+## 🧰 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 💡 What I’m Working On
+
+- 🛠 Android projects and others
+- ⚙️ Exploring system internals  
+- 📦 Building tools and small utilities  
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaanMye&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+  />
+</p>
+  
+---
+
+## ⭐ Featured
+
+🎀 Check out the pins to see what i'm proud of.
+
+---
+
+> “Treat your system as family.”
