@@ -35,7 +35,7 @@
 ## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
