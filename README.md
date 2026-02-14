@@ -28,7 +28,7 @@
 ## 💬 Contact
 
 - 📌 GitHub: [@SaanMye](https://github.com/SaanMye)  
-- 📩 Telegram: [@SaanMye](https://t.me/SaanMye)
+- 📩 Telegram: [@SaanMye](https://t.me/SaanMyetf)
 
 ---
 
