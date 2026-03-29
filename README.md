@@ -32,7 +32,7 @@
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" /></td>
   </tr>
 </table>
 
