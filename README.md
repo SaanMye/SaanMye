@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=722F37&center=true&vCenter=true&width=435&lines=Android+Enthusiast;Having+Fun;Improving;Coding" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=722F37&center=true&vCenter=true&width=435&lines=Android+Enthusiast;Having+Fun;Improving;Coding;Chilling" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaanMye&style=plastic&label=PROFILE+VIEWS&color=722F37"
@@ -57,10 +57,6 @@
 </p>
   
 ---
-
-### ⭐ Featured
-
-<img src="header/traxsu.png" width="100%" />
 
 🎀 Check out the pins to see what i'm proud of.
 
