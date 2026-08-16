@@ -44,17 +44,6 @@
 
   <a href="https://t.me/SaanMyetf"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaanMye&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-  />
-</p>
   
 ---
 
